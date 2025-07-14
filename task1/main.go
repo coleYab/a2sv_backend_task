@@ -67,7 +67,7 @@ func main() {
 	name = strings.TrimSpace(name)
 	student := New(name)
 
-	for true {
+	for {
 		fmt.Println("Main Menu:")
 		fmt.Println("1. Add Subject")
 		fmt.Println("2. Calculate Average")
