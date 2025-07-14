@@ -2,7 +2,7 @@ package services
 
 import (
 	"fmt"
-	"libaray_management/models"
+	"library_management/models"
 )
 
 type LibraryManger interface {

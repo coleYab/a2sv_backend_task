@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"libaray_management/controllers"
+	"library_management/controllers"
 )
 
 func main() {

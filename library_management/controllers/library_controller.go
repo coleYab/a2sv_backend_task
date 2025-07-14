@@ -3,8 +3,8 @@ package controllers
 import (
 	"bufio"
 	"fmt"
-	"libaray_management/models"
-	"libaray_management/services"
+	"library_management/models"
+	"library_management/services"
 	"math/rand"
 	"os"
 	"strconv"
